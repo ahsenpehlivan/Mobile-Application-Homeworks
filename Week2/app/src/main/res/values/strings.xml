@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListViewExercise</string>
+    <string name="title_activity_array_adapter">ArrayAdapterActivity</string>
+</resources>
